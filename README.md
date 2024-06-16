@@ -21,8 +21,10 @@ Ranging from manual labor to remote jobs(in-country). <br> <br>
 
 <h2>The app's functionalities : </h2> 
 Getting Started <br>  
+This is a Next.js project bootstrapped with create-next-app.
 First, run the development server:  
-npm run dev/yarn dev/pnpm dev/bun dev
+npm run dev/yarn dev/pnpm dev/bun dev 
+Open http://localhost:3000 with your browser to see the result.
 
 
 
