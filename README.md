@@ -20,8 +20,8 @@ The application's features <br>
   4.Job description <br> <br>
 
 The app's functionalities :  <br> 
-Getting Started <br>  
-First, run the development server: <br> 
+Getting Started   
+First, run the development server:  
 npm run dev/yarn dev/pnpm dev/bun dev
 
 
