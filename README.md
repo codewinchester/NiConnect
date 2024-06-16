@@ -20,6 +20,13 @@ The application's features <br>
   4.Job description <br> <br>
 
 The app's functionalities :  <br> 
-Getting Started 
+Getting Started <br>  
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 
 
