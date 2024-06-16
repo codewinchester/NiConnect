@@ -1,17 +1,17 @@
 # NiConnect
-A final PLP project. 
+<h2> A final PLP project. </h2> 
 This is a Next.js project bootstrapped with create-next-app.
 
-What's this application all about?
+<h2> What's this application all about? </h2>
 A job posting platform that will connect the normal mwananchi to local jobs.  
 Ranging from manual labor to remote jobs(in-country). <br> <br>
 
-Project objectives <br>
+<h2> Project objectives </h2> <br>
 - To connect the normal mwananchi to the nearest available local jobs. <br>
 - To have an application made by a Kenyan for Kenyans. <br>
 - Develop a friendly interface that simplifies the job search, application, and hiring process for both job seekers and employers <br> <br> 
 
-The application's features <br> 
+<h2>The application's features </h2> <br> 
 - Authentication(sign up/login) <br> 
 - Post a job <br> 
   1.Title of the job <br> 
@@ -19,7 +19,7 @@ The application's features <br>
   3.Location <br> 
   4.Job description <br> <br>
 
-The app's functionalities :  <br> 
+<h2>The app's functionalities : </h2>  <br> 
 Getting Started   
 First, run the development server:  
 npm run dev/yarn dev/pnpm dev/bun dev
