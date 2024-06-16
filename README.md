@@ -13,7 +13,7 @@ Ranging from manual labor to remote jobs(in-country). <br> <br>
 
 <h2>The application's features </h2> <br> 
 - Authentication(sign up/login) <br> 
-- Post a job <br> 
+  Post a job <br> 
   1.Title of the job <br> 
   2.Remote? full time? salary? <br> 
   3.Location <br> 
@@ -23,7 +23,7 @@ Ranging from manual labor to remote jobs(in-country). <br> <br>
 Getting Started <br>  
 This is a Next.js project bootstrapped with create-next-app.
 First, run the development server:  
-npm run dev/yarn dev/pnpm dev/bun dev 
+npm run dev/yarn dev/pnpm dev/bun dev <br> 
 Open http://localhost:3000 with your browser to see the result.
 
 
