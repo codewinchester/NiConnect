@@ -19,7 +19,7 @@ The application's features <br>
   3.Location <br> 
   4.Job description <br> <br>
 
-The app's functionalities  <br> 
+The app's functionalities :  <br> 
 Getting Started 
 
 
