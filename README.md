@@ -18,6 +18,6 @@ The application's features <br>
   3.Location <br> 
   4.Job description <br> <br>
 
-The app's functionalities
+The app's functionalities  <br> 
 First you will need to run the development server then open  http://localhost:3000 with your browser to see the result.
 
