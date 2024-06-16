@@ -12,7 +12,7 @@ Ranging from manual labor to remote jobs(in-country). <br> <br>
 - Develop a friendly interface that simplifies the job search, application, and hiring process for both job seekers and employers <br> <br> 
 
 <h2>The application's features </h2> <br> 
-- Authentication(sign up/login) <br> 
+  Authentication(sign up/login) <br> 
   Post a job <br> 
   1.Title of the job <br> 
   2.Remote? full time? salary? <br> 
