@@ -20,7 +20,7 @@ Ranging from manual labor to remote jobs(in-country). <br> <br>
   4.Job description <br> <br>
 
 <h2>The app's functionalities : </h2> 
-Getting Started   
+Getting Started <br>  
 First, run the development server:  
 npm run dev/yarn dev/pnpm dev/bun dev
 
