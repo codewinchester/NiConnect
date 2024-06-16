@@ -21,13 +21,5 @@ The application's features <br>
 
 The app's functionalities  <br> 
 Getting Started 
-First you will need to run the development server
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev <br>
-open  http://localhost:3000 with your browser to see the result.
+
 
