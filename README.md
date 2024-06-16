@@ -21,11 +21,8 @@ The application's features <br>
 
 The app's functionalities :  <br> 
 Getting Started <br>  
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+First, run the development server: <br> 
+npm run dev/yarn dev/pnpm dev/bun dev
+
+
 
